@@ -1,6 +1,8 @@
 # Sales-Analysis-Dashboard-Excel
 This is a Sales Analysis dashboard created with data from the year 2021.
 
+Data cleaning and Vizualization was done on Excel.
+
 Here is how the final dashboard looks like.
 
 ![](https://github.com/VyonaMukhwana/Sales-Analysis-Dashboard-Excel/blob/main/Sales%20Analysis%20Dashboard.PNG)
